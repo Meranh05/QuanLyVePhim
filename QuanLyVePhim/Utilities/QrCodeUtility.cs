@@ -1,6 +1,3 @@
-
-
-
 using iTextSharp.text.pdf.qrcode;
 using System.Drawing;
 using ZXing;
