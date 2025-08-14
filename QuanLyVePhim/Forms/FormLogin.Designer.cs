@@ -1,6 +1,5 @@
 ﻿using QuanLyVeXemPhim.Data;
 using QuanLyVeXemPhim.Models;
-using QuanLyVeXemPhim.Data;
 using System;
 using System.Linq;
 using System.Windows.Forms;
