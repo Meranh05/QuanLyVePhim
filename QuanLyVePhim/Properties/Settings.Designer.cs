@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QuanLyVePhim.Properties
+namespace QuanLyVeXemPhim.Properties
 {
 
 
